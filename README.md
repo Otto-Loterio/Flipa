@@ -1,2 +1,2 @@
 # Flipa
-https://otto-loterio.github.io/Flipa/OttoLoterio.html
+https://otto-loterio.github.io/Flipa/index.html
